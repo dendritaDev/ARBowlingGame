@@ -6,6 +6,9 @@ AR mobile game using Vuforia's plane detection for realistic gameplay. This proj
 - Clean architecture using Observer pattern.
 - Structured game flow with a state machine and ScriptableObject.
 - Real-world plane detection with Vuforia.
+- Sounds and VFX.
+
+![](https://github.com/dendritaDev/ARBowlingGame/blob/main/ARBowlingGameGif.gif)
 
 
  
