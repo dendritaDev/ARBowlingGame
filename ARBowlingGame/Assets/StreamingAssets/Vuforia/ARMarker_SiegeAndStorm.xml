@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="mago" size="5.000000 5.917069" />
+    <ImageTarget name="agua" size="5.000000 4.104628" />
+    <ImageTarget name="g" size="5.000000 5.882215" />
+    <ImageTarget name="d" size="5.000000 6.335201" />
+    <ImageTarget name="3" size="5.000000 5.701439" />
+    <ImageTarget name="AR_Marker_SiegeAndStorm" size="5.000000 7.705314" />
+  </Tracking>
+</QCARConfig>
